@@ -27,7 +27,6 @@ Contact : batto@hotmail.fr
 #define MCP3424_H
 
 #include <Wire.h>
-#include <Math.h>
 
 class MCP3424 {
 
