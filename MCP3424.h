@@ -26,12 +26,6 @@ Contact : batto@hotmail.fr
 #ifndef MCP3424_H
 #define MCP3424_H
 
-#if defined(ARDUINO) && ARDUINO >= 100
-#include "Arduino.h"
-#else
-#include "WProgram.h"
-#endif
-
 #include <Wire.h>
 #include <Math.h>
 
